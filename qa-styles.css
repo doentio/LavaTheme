@@ -2654,12 +2654,12 @@ input#poll_answer_1.qa-poll-answer-text {
 }
 
 @-webkit-keyframes highlight {
-  0% { background-color: #ffffaa; }
-  100% { background-color: #fff; }
+  0% { background-color: #282828; }
+  100% { background-color: #4d4d4d; }
 }
 @keyframes highlight {
-  0% { background-color: #ffffaa; }
-  100% { background-color: #fff; }
+  0% { background-color: #282828; }
+  100% { background-color: #4d4d4d; }
 }
 
 .wmd-prompt-dialog > form > input[type="text"] {
